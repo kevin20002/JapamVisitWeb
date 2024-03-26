@@ -1,0 +1,4 @@
+1. nav bar: &themacolor，
+            flex container和flex item屬性練習   
+            多利用border去切版
+            動畫
